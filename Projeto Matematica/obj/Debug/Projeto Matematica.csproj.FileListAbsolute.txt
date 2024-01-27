@@ -1,0 +1,48 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\bin\Debug\Projeto Matematica.exe.config
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\bin\Debug\Projeto Matematica.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\bin\Debug\Projeto Matematica.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMLSS.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPLib.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.ResolveComReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_inicio.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_antecessor_sucessor.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_dobro.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_par_impar.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_positivo_negativo_neutro.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.pdb
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\bin\Debug\Projeto Matematica.exe.config
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\bin\Debug\Projeto Matematica.exe
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\bin\Debug\Projeto Matematica.pdb
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMLSS.dll
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPLib.dll
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.ResolveComReference.cache
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_inicio.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_antecessor_sucessor.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_par_impar.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_positivo_negativo_neutro.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Properties.Resources.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.exe
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto Matematica.pdb
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_dobro.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_igual_ou_diferente.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.frm_maior_ou_menor.resources
+C:\Users\CP\Desktop\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_operacoes_aritmeticas.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_igual_ou_diferente.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.frm_maior_ou_menor.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Projeto Matematica\Projeto Matematica\obj\Debug\Projeto_Matematica.Frm_operacoes_aritmeticas.resources
